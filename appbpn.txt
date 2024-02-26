@@ -1,0 +1,28 @@
+Master Data
+Form Pegawai->Identitas Pegawai
+Form Alat->Kode alat
+Form Lokasi Destinasi Pengukuran->Alamat
+Form Pemohon->Identitas Pemohon
+
+
+Transaksi
+1. Loket->Administrasi, Penyerahan Dokumen,Pemeriksaan dokumen. 
+2. Pembayaran-> Rincian Pembayaran-> Slip Pembayaran.
+3. Penjadwalan Pengukuran tanah->Tanggal pengukuran,lokasi, status.
+4. Peminjaman Alat->Pegawai, jam/tanggal diambil, jam/tanggal kembali.
+5. Surat tugas->pegawai,dokumen pemohon dan lokasi.
+6. Hasil pengukuran->Pegawai, Pemohon->lokasi->status.
+
+"Aplikasi Monitoring Kegiatan Pengukuran dan Peminjaman Alat"
+
+Alur pendaftaran - Jadwal Pengukuran - Pengukuran - Hasil Pengukuran 
+
+CRUD
+
+
+REPORT
+1. Peminjaman Alat -> Tambah Cetak Perhari/Bulan + Durasi Otamtis
+2. Pendaftaran Pengukuran dari pemohon -> Permohonan Hari ke Petugas Ukur -> Keperluannya Apa -> 
+   Status (Acc/Jadwal Ulang).
+3. Hasil Pengukuran -> Pegawai Update Status Proses Pengukuran -> Pemohon Bisa Cek Status Pengukuran -> 
+   Laporan Proses Pengukuran Per Kode Permohonan

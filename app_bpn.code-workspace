@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../app_gawi1"
+		},
+		{
+			"path": "../PondokCoklat"
+		},
+		{
+			"path": "../surat_disposisi"
+		},
+		{
+			"path": "../app_kecamatan"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,17 @@
+Luas tanah sampai dengan 10 hektar
+
+Tu = (L/500 x HSBKu ) + Rp100.000,00
+
+Luas tanah lebih dari 10 hektar sampai dengan 1.000 hektar
+
+Tu =  (L/4000 x HSBKu )  + Rp14.000.000,000
+
+Luas tanah lebih dari 1.000 hektar
+
+Tu = (L/10.000x HSBKu  +Rp134.000.000,00
+
+*HSBKu: Harga Satuan Biaya Khusus Pengukuran.
+
+**Catatan: HSBKu setiap provinsi bisa berbeda-beda.
+
+Sebagai informasi, peraturan teknik pengukuran tanah bisa kamu baca di Peraturan Menteri Negara Agraria/Kepala Badan Pertanahan Nasional Nomor 3 Tahun 1997 tentang Ketentuan Pelaksanaan Peraturan Pemerintah Nomor 24 Tahun 1997 tentang Pendaftaran Tanah.
